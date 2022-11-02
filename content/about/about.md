@@ -1,7 +1,7 @@
 ---
-title: "Introduction"
-date: 2022-11-02T15:14:11+01:00
-featured_image: "/images/bulb.jpg"
+title: "About"
+date: 2022-11-02T16:04:03+01:00
+featured-image: "/images/bulb.jpg"
 draft: false
 ---
 
@@ -17,3 +17,4 @@ Wir alle kennen Staubsaugerroboter. Sie können eine große Hilfe im Alltag sein
 (Hierzu braucht es noch eine Menge Überlegungen wie man das umsetzen könnte: z.B. ob man den Staub erst aufwirbelt und dann aufsaugt, oder direkt aufsaugt, oder chemisch auflöst... alles noch in Kinderschuhen).
 
 Und jetzt wünsche ich viel Spaß beim Lesen dieser Dokumentation! :)
+
