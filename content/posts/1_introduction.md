@@ -16,6 +16,6 @@ Genau das sind auch meine Erwartungen an das Modul: Viel Neues lernen.
 Die nötigen Skills zur Umsetzung stehen zwar noch in den Sternen, dennoch möchte ich mein Traumprojekt gerne vorstellen:
 Wir alle kennen Staubsaugerroboter. Sie können eine große Hilfe im Alltag sein, jedoch sind sie an eine Bodenfläche gebunden. Was ist mit dem Staub auf Schränken, Bildschirmen, etc.? Staubwischen macht keinen Spaß, aber diesen Job können Staubsaugerrobotoren leider nicht übernehmen. Mit einer Staubwedeldrohne wäre das zu machen!
 (Hierzu braucht es noch eine Menge Überlegungen wie man das umsetzen könnte: z.B. ob man den Staub erst aufwirbelt und dann aufsaugt, oder direkt aufsaugt, oder chemisch auflöst... alles noch in Kinderschuhen).
-Ansonsten würde ich gerne die Nachbarskatze von unserer Terasse fernhalten, da sie gerne tote Tiere auf den Sitzpolstern liegen lässt. Dazu könnte man eine Wasserpistole mit Bewegungssensor versehen.
+Ansonsten würde ich gerne die Nachbarskatze von unserer Terasse fernhalten, da sie oft tote Tiere auf den Sitzpolstern liegen lässt. Dazu könnte man eine Wasserpistole mit Bewegungssensor versehen.
 
 Und jetzt wünsche ich viel Spaß beim Lesen dieser Dokumentation! :)

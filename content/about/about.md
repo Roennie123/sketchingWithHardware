@@ -7,7 +7,7 @@ draft: false
 
 Hallo, ich heiße Ronja und studiere Medieninformatik.
 
-Dieses Semester belege ich das Anwendungsfach "Sketching with Hardware" und werde mein Erlerntes (bzw.vllt.auch Nicht-Erlerntes) in dieser Dokumentation festhalten.
+Dieses Semester belege ich das Anwendungsfach "Sketching with Hardware" und werde mein Erlerntes in dieser Dokumentation festhalten.
 
 Viel Spaß beim Lesen! :)
 
