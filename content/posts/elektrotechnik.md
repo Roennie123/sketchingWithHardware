@@ -1,7 +1,7 @@
 ---
 title: "Elektrotechnik"
 date: 2022-11-09T18:48:35+01:00
-featured_image: "\images\signal-2022-11-14-214744_022.jpeg"
+featured_image: "/images/signal-2022-11-14-214744_022.jpeg"
 draft: false
 ---
 
@@ -46,9 +46,9 @@ Dazu durften wir dann auch selbst ins Labor gehen und Gelerntes in (hoffentlich)
 Wichtigster Bestandteil der Messtechnik: das Multimeter (Definition Skript: misst alles und jedes).
 Jedoch sollten wir ja das Berrechnen lernen. Daher machten wir einen Versuch, in welchem wir anhand von verschiedenen Strom- und Spannungs-Tupeln einen Widerstand berrechnen sollten (Wir erinnern uns R = U / I). Um alles genauer zu machen (da das Netzteil - wo der Strom rauskommt - sehr grobe Angaben macht) schlossen wir ein Multimeter an und lasen dort dann die Strom- und Spannungs-Tupel ab. Komplett eindeutig war unser Ergebnis nicht (Begründung Kursleiter: die Messgeräte sind scheiße), aber im Durchschnitt konnten wir uns auf einen Widerstand von 1000 Ohm einigen.
 
-![Multimeter](static\images\signal-2022-11-14-214744_002.jpeg)
-![Netzteil](static\images\signal-2022-11-14-214744_003.jpeg)
-![Versuchsaufbau](static\images\signal-2022-11-14-214744_027.jpeg)
+![Multimeter](signal-2022-11-14-214744_002.jpeg)
+![Netzteil](signal-2022-11-14-214744_003.jpeg)
+![Versuchsaufbau](signal-2022-11-14-214744_027.jpeg)
 
 In einem weiteren Versuch sollte der Wert eines (anderen) Widerstandes anhand eines Spannungsteilers bestimmt werden. Dazu musste erst die Spannungsteiler-Formel umgeschrieben werden:
 
@@ -68,10 +68,10 @@ Goldener Topfkratzschwamm -> zum Lötstift säubern.
 Platine/Stift -> irgendwas zum verlöten.
 Kupferdraht -> damit können Fehler korrigiert werden. Saugt bei Erhitzen Lotzinn auf wie ein Schwamm.
 
-![Lötstift](static\images\signal-2022-11-14-214744_024.jpeg)
-![Kupferdraht](static\images\signal-2022-11-14-214744_026.jpeg)
-![Lötstifttermostat](static\images\signal-2022-11-14-214744_033.jpeg)
-![Platine, Stifte und Lotzinn](static\images\signal-2022-11-14-214744_011.jpeg)
+![Lötstift](signal-2022-11-14-214744_024.jpeg)
+![Kupferdraht](signal-2022-11-14-214744_026.jpeg)
+![Lötstifttermostat](signal-2022-11-14-214744_033.jpeg)
+![Platine, Stifte und Lotzinn](signal-2022-11-14-214744_011.jpeg)
 
 Nun zur Vorbereitung: Stift und Platine so miteinander verbinden wie es der gewünschten Endsituation entspricht. Am besten die Platine in irgendeine Halterung klemmen, auf den Tisch legen klappt theoretisch aber auch. Hauptsache die Verbindung bleibt stabil. Dann mit dem Flussmittelstift großzügig den zu verlötenden Bereich "bewässern". Lötstiftgerät einschalten.
 
@@ -79,11 +79,11 @@ Der Prozess: Mit dem Lötstift die zu lötende Stelle erhitzen. Nun wird zwische
 
 Es hat alles schon ziemlich gut geklappt, aber ich denke, dass man mit ein paar Übungsversuchen mehr den Dreh dann relativ schnell raushat und auch genau weis worauf es wirklich ankommt. Denn das lernt man ja am besten durch eigene Anwendungen. :)
 
-Hier kommen noch ein paar Impressionen zum Löten:
+Hier kommen Impressionen zum Löten:
 
-![Flussmittel auf der Platine auftragen](static\images\signal-2022-11-14-214744_023.jpeg)
-![Löten](static\images\signal-2022-11-14-214744_030.jpeg)
-![Vorrichtung zum Halten der Platine](static\images\signal-2022-11-14-214744_030.jpeg)
-![Hier ist der Lotzinn leider etwas zu großzügig geflossen](static\images\signal-2022-11-14-214744_016.jpeg)
+![Flussmittel auf der Platine auftragen](signal-2022-11-14-214744_023.jpeg)
+![Löten](signal-2022-11-14-214744_030.jpeg)
+![Vorrichtung zum Halten der Platine](signal-2022-11-14-214744_030.jpeg)
+![Hier ist der Lotzinn leider etwas zu großzügig geflossen](signal-2022-11-14-214744_016.jpeg)
 
 Zu guter Letzt noch ein paar Fachbegriffe aus der Vorlesung: Reihenschaltung, Parallelschaltung, Spannungsteiler, Elektrolyt- und Keramikkondensatoren. Wer wissen möchte was die machen, kann es selbst recherchieren. Dieser Post sollte nämlich nun auch mal ein Ende finden. :)
