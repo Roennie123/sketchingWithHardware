@@ -83,7 +83,6 @@ Hier kommen Impressionen zum Löten:
 
 ![Flussmittel auf der Platine auftragen](signal-2022-11-14-214744_023.jpeg)
 ![Löten](signal-2022-11-14-214744_030.jpeg)
-![Vorrichtung zum Halten der Platine](signal-2022-11-14-214744_030.jpeg)
 ![Hier ist der Lotzinn leider etwas zu großzügig geflossen](signal-2022-11-14-214744_016.jpeg)
 
 Zu guter Letzt noch ein paar Fachbegriffe aus der Vorlesung: Reihenschaltung, Parallelschaltung, Spannungsteiler, Elektrolyt- und Keramikkondensatoren. Wer wissen möchte was die machen, kann es selbst recherchieren. Dieser Post sollte nämlich nun auch mal ein Ende finden. :)

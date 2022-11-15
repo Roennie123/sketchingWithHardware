@@ -2,7 +2,7 @@
 title: "Schaltplan"
 date: 2022-11-15T17:47:41+01:00
 featured_image: "/images/Fritzing_icon.png"
-draft: true
+draft: false
 ---
 
 Sehr wichtig im Bezug auf die Elektrotechnik (letzter Post), sind Schaltpläne.
