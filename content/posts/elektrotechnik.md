@@ -1,7 +1,7 @@
 ---
 title: "Elektrotechnik"
 date: 2022-11-09T18:48:35+01:00
-featured_image: "static\images\signal-2022-11-14-214744_022.jpeg"
+featured_image: "\images\signal-2022-11-14-214744_022.jpeg"
 draft: false
 ---
 
