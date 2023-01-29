@@ -64,5 +64,5 @@ Als das dann ready war ging die Datei an den Emblaser und wurde gelasert. Ich ha
 
 ![Laser](laser.gif)
 ![Laser-Cutter](laser_cutting.gif)
-![Emblaser](emblaser.jpeg)
+![Emblaser](emblaser.jpg)
 ![Catfish on wood](wels.jpg)
